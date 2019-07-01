@@ -27,7 +27,7 @@ Work experience
   * Developed internal Data Science python and R packages that are used by 50+ business, product, and data analysts.
 
 * Software Engineer Intern, SAP (2015)
-    * Developed a hand recognition prototype
+    * Developed a hand recognition prototype.
     
 * Software Engineer, Karfidov Lab (2014)
     * Designed and built website [karfidovlab.ru](karfidovlab.ru). Worked with Javascript, node.js, Heroku.

@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD degree at Skoltech (2015-2019)
+    * Topic: Combinatorial and Neural Graph Vector Representations
+    * Supervisor: [Evgeny Burnaev](https://faculty.skoltech.ru/people/evgenyburnaev)
+* MSc degree in Computer Science at Skoltech (2013-2015)
+    * Research Internship at HKUST (Hong Kong)
+    * Courses during One Semester at MIT (USA)
+    * Best Thesis Award: "Viral Marketing in Social Networks"
+* MSc degree in Math (with honors), [Saratov State University](https://www.sgu.ru/en) (2007-2012)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Scientist, Criteo (2015-Present)
+  * Developed Deep Learning models for bidding and recommendation. 
+  * Developed internal Data Science python and R packages that are used by 50+ business, product, and data analysts.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Engineer Intern, SAP (2015)
+    * Developed a hand recognition prototype
+    
+* Software Engineer, Karfidov Lab (2014)
+    * Designed and built website [karfidovlab.ru](karfidovlab.ru). Worked with Javascript, node.js, Heroku.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

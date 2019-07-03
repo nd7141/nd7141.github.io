@@ -1,15 +1,33 @@
 ---
-title: "Paper Title Number 3"
+title: ""
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publications/
+excerpt: ''
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: ''
+paperurl: ''
+citation: ''
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Unsupervised Community Detection with Modularity-Based Attention Model
+I Lobov & S Ivanov 
+ICLR Workshops 2019
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Learning Connectivity Patterns via Graph Kernels for fMRI-Based Depression Diagnostics
+M Sharaev, A Artemov, E Kondrateva, S Ivanov, S Sushchinskaya, A Bernstein, A Cichocki, E Burnaev
+ICDM Workshops 2018
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Learning Node Embeddings for Influence Set Completion
+S Ivanov, N Durasov, E Burnaev
+ICDM Workshops 2018
+
+Anonymous Walk Embeddings
+S Ivanov & E Burnaev
+ICML 2018
+
+Content recommendation for viral social influence
+S Ivanov, K Theocharidis, M Terrovitis, P Karras
+SIGIR 2017
+
+Harvester: Influence optimization in symmetric interaction networks
+S Ivanov & P Karras
+DSAA 2016

@@ -151,11 +151,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\s.ivanov\Documents\git\nd7141.github.io\_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\s.ivanov\Documents\git\nd7141.github.io\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s.ivanov\Documents\git\nd7141.github.io\_sass" />
+      <recent name="C:\Users\s.ivanov\Documents\git\nd7141.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">

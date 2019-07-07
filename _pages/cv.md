@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* PhD degree at Skoltech (2015-2019)
+* PhD degree at [Skoltech](https://www.skoltech.ru/en) (2015-2019)
     * Topic: Combinatorial and Neural Graph Vector Representations
     * Supervisor: [Evgeny Burnaev](https://faculty.skoltech.ru/people/evgenyburnaev)
-* MSc degree in Computer Science at Skoltech (2013-2015)
+* MSc degree in Computer Science at [Skoltech](https://www.skoltech.ru/en) (2013-2015)
     * Research Internship at HKUST (Hong Kong)
     * Courses during One Semester at MIT (USA)
     * Best Thesis Award: "Viral Marketing in Social Networks"
@@ -22,11 +22,11 @@ Education
 
 Work experience
 ======
-* Research Scientist, Criteo (2015-Present)
+* Research Scientist, [Criteo](https://www.criteo.com/) (2015-Present)
   * Developed Deep Learning models for bidding and recommendation. 
   * Developed internal Data Science python and R packages that are used by 50+ business, product, and data analysts.
 
-* Software Engineer Intern, SAP (2015)
+* Software Engineer Intern, [SAP](https://www.sap.com/index.html) (2015)
     * Developed a hand recognition prototype.
     
 * Software Engineer, Karfidov Lab (2014)

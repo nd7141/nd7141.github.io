@@ -1,0 +1,223 @@
+/* Publications */
+
+  .publications {
+    margin-bottom: 1.0em;
+    padding-top: 1.0em;
+ //   display: flex;
+    align-items: left;
+    text-align: left;
+  }
+
+  .publications article {
+    margin-bottom: 1.25em;
+    padding-top: 1.25em;
+  }
+
+  .publications article:first-child {
+    border-top: 0;
+    padding-top: 0;
+  }
+
+  .pub-image {
+   width:100%;
+  }
+
+  .vertical-align {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex; /* add */
+    justify-content: center; /* add to align horizontal */
+    align-items: center; /* add to align vertical */
+}
+
+  .publications article .image img {
+    display: block;
+    width: 100%;
+  }
+
+  .publications article .inner {
+    display: inline-block;
+    vertical-align: middle;
+    width: 75%;
+  }
+
+  .links {
+    margin-top: 20px;
+
+  }
+
+  .links a {
+    border: 1px solid #4183C4;
+    //border: 1px solid #CCC;
+    padding: 5px;
+    margin: 2px 0px;
+    margin-right: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-transition: box-shadow 100ms ease-in-out;
+    -moz-transition: box-shadow 100ms ease-in-out;
+    transition: box-shadow 100ms ease-in-out;
+    //background-color: #feddfd;
+    display:inline-block;
+
+  }
+
+  .links a:hover {
+    //background-color: #4183C4;
+    //color: #FFF;
+    text-decoration: none;
+    box-shadow: 0px 0px 15px #CCC;
+  }
+
+  .publications article .inner > :last-child {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 768px) {
+
+  [class*="marginbottom"] {
+      margin-bottom: 15px;
+  }
+}
+
+    @media (min-width: 768px) {
+
+  [class*="vcenter"] {
+      display: inline-block;
+     vertical-align: middle;
+     float: none;
+  }
+}
+
+
+  .publications .title {
+    // text-align: left;
+    color: #800;
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0.1em;
+  }
+
+  .publications .authors {
+    // color: green;
+    font-style: italic;
+    margin-bottom: 0.0em;
+    margin-top: 0px;
+    font-size: 11pt;
+  }
+  .publications .conf {
+    // color: green;
+    // font-style: italic;
+    font-size: 11pt;
+    margin-bottom: 1em;
+    margin-top: 0px;
+    text-decoration: underline;
+    font-size: 11pt;
+   // color: #090;
+  }
+  .publications .conf1 {
+    // color: green;
+    // font-style: italic;
+    font-size: 15px;
+    margin-bottom: 1em;
+    margin-top: 0px;
+    font-size: 11pt;
+   // color: #090;
+  }
+  .publications .description {
+    // color: green;
+    // font-style: italic;
+    margin-bottom: 0.6em;
+    margin-top: 0px;
+    font-size: 11pt;
+  }
+
+/* Projects */
+
+  .projects article {
+    margin-bottom: 1.0em;
+    padding-top: 1.0em;
+  }
+
+ .proj-img {
+    width:100%;
+    //max-width:242px;
+ }
+
+ .projects imgcol {
+    max-width:272px;
+ }
+
+  .projects {
+    margin-bottom: 1.0em;
+    padding-top: 1.0em;
+   // display: flex;
+   align-items: center;
+   text-align: center;
+  }
+
+  .projects article:first-child {
+    border-top: 0;
+    padding-top: 0;
+  }
+
+  .projects article .image {
+    display: inline-block;
+    padding-right: 1.5em;
+    vertical-align: middle;
+    width: 23%;
+  }
+
+  .projects article .image img {
+    display: block;
+    width: 100%;
+  }
+
+  .projects article .inner {
+    display: inline-block;
+    vertical-align: middle;
+    width: 75%;
+  }
+
+  .projects article .inner > :last-child {
+    margin-bottom: 0;
+  }
+
+  .projects .title {
+    // text-align: left;
+    color: #900;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0.7em;
+  }
+
+  .projects .description {
+    // color: green;
+    // font-style: italic;
+    margin-bottom: 0.7em;
+    margin-top: 0px;
+  }
+
+  .features article .projectTitle {
+    // text-align: left;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0.7em;
+  }
+
+  .features article .projectDescription {
+    // color: green;
+    // font-style: italic;
+    margin-bottom: 0.7em;
+    margin-top: 0px;
+  }

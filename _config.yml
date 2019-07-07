@@ -75,8 +75,9 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-143357989-2
 
+yandex_metrica: True
 
 # Site Author
 author:
@@ -87,7 +88,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2Q8ksBgAAAAJ&hl=en&authuser=1"
-  email            :
+  email            : "sergei.ivanov@skolkovotech.ru"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -273,6 +274,20 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+footer-links:
+  dribbble:
+  email: sergei.ivanov@skolkovotech.ru
+  facebook:
+  flickr:
+  github: nd7141
+  instagram:
+  linkedin: sergey-ivanov-a52355bb/
+  pinterest:
+  rss: rss # just type anything here for a working RSS icon
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Archives
 #  Type

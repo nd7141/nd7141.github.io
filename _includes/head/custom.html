@@ -35,6 +35,14 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!--for google and yandex analytics-->
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
+<!--for rss-->
+{% feed_meta %}
+
 <!-- Favicon head tag -->
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
